@@ -1,133 +1,73 @@
 ---
 emoji: 🔮
-title: 회고록
-date: '2021-07-06 00:00:00'
-author: 줌코딩
+title: Section1 종료
+date: '2022-07-20 00:00:00'
+author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 블로그 featured
+categories: 회고록
 ---
 
-제 블로그의 테마나 Gatsby의 다른 테마를 활용해서 Github Blog를 만들고 싶은 분들이 계실텐데요! 이런 분들에게 도움을 드리고자 이 글을 쓰게 되었습니다. 잘 안되는 부분이나 궁금한 점을 댓글로 남겨주면 확인해보고 답변 드리도록 하겠습니다!
+![](https://velog.velcdn.com/images/gktmd652/post/3aa36f99-d7b3-4e1e-8d57-fd8a9dec03c1/image.png)
 
-## 1. Repository 생성하기
+### Section 1 종료
 
-GitHub Blog를 만들려면 Github에 Repository를 생성해야 합니다.
+코드스테이츠가 정확히 6월 23일에 시작했다. 나는 부캠 이외에 사이드,독서,개인 공부 등등을 하면서 나름 바쁘게 지내서 1달 밖에..?라는 생각이 들었다.
 
-![github-blog.png](github-blog.png)
+작년 5월에 퇴사를 하고 코딩 공부를 1년 가까이 정도 했지만 아직까지 회고록 같은 것을 써본적이 없기도 했는데 부트캠프에서 마침 좋은 기회를 얻게 되어서 이번에 한번 작성해볼까 한다.
 
-GitHub에 로그인 한 뒤에 우측 상단에 있는 New Repository 버튼을 클릭하면 repository 생성 페이지로 이동하게 됩니다. 이 때 Import a repository 버튼을 클릭합니다.
+### Keep
 
-![github-blog-1.png](github-blog-1.png)
+1. **TIL**
 
-아래 페이지에 도달하시면 두 가지 정보를 넣어주셔야 하는데, Your old repository's clone URL에는 사용하고자 하는 gatsby 테마가 있는 repository의 주소를 넣어주시면 됩니다.
+주말을 제외하고 매일 적었다. 물론 내용 정리 위주로 한 것도 있지만 보통 일기 형식으로 쓰려고 노력했다. 공부하면서 궁금했던 부분이나, 막혔던 부분 등등을 적었다. 누구한테 보여줄려고 작성하는 건 솔직히 적으나 마나다. 개인적인 의견이지만 내가 알아볼 수 없으면 누가 알아볼 수 있을까? 라는 생각이 먼저 들었기 때문에 내가 이해할 수 있도록 적었다.
 
-제 블로그 테마를 쓰고 싶으신 분들은 여기에 [https://github.com/zoomKoding/zoomkoding.com](https://github.com/zoomKoding/zoomkoding.com)를 넣어주세요!
+2. **알고리즘 문제**
 
-![github-blog-2.png](github-blog-2.png)
+진짜 적어도 2문제는 거의 매일 풀었던 거 같다. 문제 해결법을 고민해가면서 정녕 늦게 자는 한이 있더라도 알고리즘 해결 실력을 키우기 위해 노력했다.
 
-그럼 이제 Repository Name을 입력해줍니다. 이 때 주의할 점은 Repository명은 꼭 [GitHubID].github.io로 설정하셔야 합니다.
+### Problem
 
-그리고 Begin Import 버튼을 클릭하고 조금 기다리면 선택하신 블로그 테마를 import한 Repository가 생성되게 됩니다.
+1. **유튜브 보면서 공부하기**
 
-![github-blog-3.png](github-blog-3.png)
+아무래도 듀얼 모니터를 쓰고 작업하다보니 자연스레 그렇게 되는 거 같다. 평일에는 9-6 풀로(?) 일정이 있다보니 솔직히 말하면 볼 시간이 없는데 주말에는 확실히 늘어지는 바람에 바로 유튜브부터 켠다.
 
-## 2. Repository 가져오기
+2. **작업 환경 복잡**
 
-이제 실제로 수정하고 배포할 수도록 내 컴퓨터(local)에 Repsitory를 가져와볼 건데요! 먼저 Repository에서 아래와 같이 초록색 Code 버튼을 클릭하면 링크가 나오게 되는데, 이 링크를 복사합니다.
+나는 정말 정리를 못하는 편이다. 뭐든지 내 손 안에 닿는 거리에 물건이 있어야 안정이 되는 사람이라 어디 딴 데라도 있으면 불안해 하는 타입이다.
 
-![github-blog-4.png](github-blog-4.png)
+3. **거만함**
 
-그리고 아래 명령어를 수행하여 블로그를 다운로드합니다.
+작년 말쯤부터 현업에 있는 개발자들과 소통을 하기 시작하면서 취업에 대한 방향성이나 각종 리소스들을 공유하면서 언젠가부터 눈이 높아졌다는 느낌이 들었다. 부트캠프에 온 사람들도 다 실력 차이는 있겠지만 어쨌든 똑같이 배우러 온 사람들이다.
 
-```bash
-cd [Repository를 저장할 폴더]
-git clone [복사한 주소]
-```
+4. **일 벌리기**
 
-## 3. Blog 설치하기
+일 벌리기 대마왕이다… 뭔가에 딱 집중을 좀 해야하는데 필요에 의해 하다보니 이거저거 다 건드리면서 결국 돌이키지도 못하게 됐다. 대충 나열해보면 다른 인강, cs, 독서, 사이드, 영어공부(이거는 쳐냄) 정도지만 구체적으로 쓰다 보면 좀 많다.
 
-이제 블로그를 동작시킬 수 있도록 패키지들을 다운로드 해야하는데, 다음 명령어를 실행하시면 받을 수 있습니다.
+### Try
 
-```bash
-cd [Repository 주소]
-npm install
-```
+1. 집중하기 : 제발 공부할 때는 다른 거 하지말자…. 차라리 노래들으면서 하는게 그나마 나을 거 같다.
 
-## 4. Blog 배포 준비하기
+2. 정리정돈 하기 : 아침에 일어나서나 시간적으로 여유가 생길 때, 무조건 내 앞에 거슬리는 거부터 치우고 작업을 시작해야겠다.
 
-그리고 이제 Gatsby 테마를 GitHub 페이지에 올리기 위해 gh-pages라는 패키지를 설치해야 합니다. 설치는 다음 명령어를 실행하시면 됩니다.
+3. 거만함 고치기 : 난 아직 개발자도 아니고 부트캠프 수료할려면 아직 멀었다… 블로그나 세션 같은 걸로 정보 얻어가는 것은 좋지만 그거 하나 수박겉핥기 식으로 얻은 지식 가지고 아는 척은 하지 말아야겠다.
 
-```bash
-npm install gh-pages --save-dev
-```
+4. 투두 리스트 정리 : 일 벌린 거는 이번 주 안으로 손 좀 봐야겠다..
 
-그리고 나서 package.json에 다음을 추가합니다.
+5. 블로그 나누기
 
-```json
-{
-  "scripts": {
-    "deploy": "gatsby build && gh-pages -d public" // 추가
-  }
-}
-```
+- 프로젝트 관련,회고록 - 갯츠비
+- TIL - velog
+- 기타 등등 - 노션
 
-## 5. Blog 배포하기
+### 우선순위
 
-드디어 배포 준비는 다 끝났습니다. 이제 다음 명령을 실행하시면 github page에 배포하실 수 있습니다.
+1. 코드스테이츠에서 배운 거 TIL로 간단하게 정리
+2. 일요일 제외하고 매일 운동
+3. 프로그래머스 문제 최소 2문제 풀기
+4. 사이드,독서,개인 공부 등등..
 
-```bash
-npm run deploy
-```
+### 목표
 
-조금 기다리신 후에 다음과 같이 `Published`라는 메시지를 받으셨다면 배포는 잘 끝났습니다!
-
-> 🙋‍♂️ 제 블로그 템플릿을 사용하시는 분들을 `node 버전이 14 이상`이어야 합니다.
-> node -v를 통해 node 버전을 확인하신 후 낮은 버전이라면 업그레이드를 진행해주세요!
-
-> 💡 혹시 그 외에 다른 에러가 발생하신다면 아래에 댓글로 에러 내용을 알려주세요!
-
-![github-blog-5.png](github-blog-5.png)
-
-## 6. Repository Source Branch 변경하기
-
-마지막으로 GitHub 페이지가 작동하려면 GitHub의 Repository 설정에서 배포 할 Branch를 선택해야 합니다. 이를 위해서 Repository에 있는 Settings를 클릭하고 죄측 메뉴에서 Pages를 클릭하여 Github Pages 설정 페이지로 이동합니다.
-
-![github-blog-6.png](github-blog-6.png)
-
-여기서 Source에 있는 Branch를 master(main)에서 gh-pages로 변경한 후에 저장합니다.
-
-![github-blog-7.png](github-blog-7.png)
-
-## 7. 배포된 페이지 확인하기
-
-이제 실제로 잘 배포가 되었는지 확인해봅시다. 여태까지 문제가 없으셨다면 [GitHubID].github.io에 접근했을 때 블로그가 잘 보이는 것을 확인하실 수 있으실 겁니다.
-
-![github-blog-8.png](github-blog-8.png)
-
-## 8. 수정하고 배포하기
-
-블로그를 수정하시는 방법은 각 블로그 테마마다 다를텐데요. 그에 맞춰서 변동사항을 commit하신 후에 아래 명령어를 실행하시면 변동사항이 블로그에 배포됩니다!
-
-```bash
-npm run deploy
-```
-
-<br/>
-
-## ⭐️ 이 블로그 테마를 이용하고 싶으시다면!
-
-마지막으로 제 블로그 테마를 활용하고 싶으시다면 아래 링크를 참고해주세요!
-[https://www.zoomkoding.com/gatsby-starter-zoomkoding-introduction](https://www.zoomkoding.com/gatsby-starter-zoomkoding-introduction)
-
-궁금하신 점이 있으시다면 [이슈](https://github.com/zoomKoding/zoomkoding-gatsby-blog/issues/new)로 남겨주시면 최대한 빠르게 답변 드리도록 하겠습니다!🙋‍♂️
-
-> 🤔 혹시 특정 기능이 없어서 테마 사용을 망설이시거나 제안하고 싶으신 기능이 있으시다면,  
-> 👉 [여기](https://github.com/zoomKoding/zoomkoding-gatsby-blog/issues/40)에 댓글 남겨주세요! 적극적으로 반영하겠습니다 :)
-
-<br/>
-
-**위 과정을 따라하시면서 궁금하신 점이 있다면 아래 `댓글`로 남겨주세요!👇**
-
-```toc
-
-```
+1. 배운거 프로젝트에 써먹기
+2. 기획중인 사이드 프로젝트 끝까지 마무리하기
+3. 내년 상반기 안으로 취업하기

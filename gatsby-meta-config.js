@@ -1,5 +1,5 @@
 module.exports = {
-  title: `gktmd653@gmail.com`,
+  title: `jhsdev`,
   description: `프론트엔드 개발`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://ha-seung-jeong.github.io`,
