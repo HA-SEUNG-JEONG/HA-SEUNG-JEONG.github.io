@@ -14,7 +14,7 @@ function Utterances({ repo, path }) {
     const utterances = document.createElement('script');
     const utterancesConfig = {
       src,
-      repo,
+      repo: 'HA-SEUNG-JEONG/HA-SEUNG-JEONG.github.io',
       branch,
       theme: JSON.parse(storedIsDarkMode) ? 'photon-dark' : 'github-light',
       label: 'comment',

@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `HA-SEUNG-JEONG/gatsby-github-blog`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -14,13 +14,13 @@ module.exports = {
     name: `정하승`,
     bio: {
       role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ``,
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      github: `https://github.com/HA-SEUNG-JEONG`, // `https://github.com/zoomKoding`,
+      linkedIn: `https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/`, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
+      email: `gktmd653@gmail.com`, // `zoomkoding@gmail.com`,
     },
   },
 
