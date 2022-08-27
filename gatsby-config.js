@@ -7,14 +7,6 @@ module.exports = {
 
   plugins: [
     {
-      resolve: `gatsby-plugin-gtag`,
-      options: {
-        trackingId: `G-LMRYP0R4RC`, // 측정 ID
-        head: false,
-        anonymize: true,
-      },
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `assets`,
@@ -49,14 +41,14 @@ module.exports = {
         },
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: metaConfig.ga,
-    //     head: true,
-    //     anonymize: true,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: metaConfig.ga,
+        head: true,
+        anonymize: true,
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
