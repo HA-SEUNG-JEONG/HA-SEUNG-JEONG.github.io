@@ -13,7 +13,7 @@ module.exports = {
   author: {
     name: `정하승`,
     bio: {
-      role: `예비프론트엔드 개발자`,
+      role: `프론트엔드 개발자`,
       description: ``,
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
