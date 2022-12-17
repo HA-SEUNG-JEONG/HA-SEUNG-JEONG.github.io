@@ -131,14 +131,6 @@ TMI지만 사실 프리,메인 모두 **타입스크립트**를 적용해보고 
 
 아무튼 프로젝트를 위해 관련 자료 영상들을 찾아가면서 공부는 하고 있지만 제대로 가능할지는 미지수다.
 
-<img src='https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7566a3b3-a524-419c-a660-2236657df349/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221019%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221019T050346Z&X-Amz-Expires=86400&X-Amz-Signature=36a214afc488029ccbcb497a72f1590a550072e1b4dc76e447bcad6e6a2fef2b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject' />
-
-<img src='https://s3.us-west-2.amazonaws.com/secure.notion-static.com/68291fde-e1bb-4295-9231-c19e314e314d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221019%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221019T050519Z&X-Amz-Expires=86400&X-Amz-Signature=5cc98270c9d592a2aa95ecd286c6465672ce7532ed5bcadebcd2b8f48fbd5de1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject' />
-
-<img src='https://s3.us-west-2.amazonaws.com/secure.notion-static.com/826274e0-d5a7-4961-bd67-7f9630427328/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221019%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221019T050555Z&X-Amz-Expires=86400&X-Amz-Signature=30e3636fff9c2b32f0eccddbf39cf72cf0e00fb7bc9e2ff217293fa6b64ac44d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject' />
-
-<small><p align='center' style='color:gray'>**그 동안의 흔적들...**</p></small>
-
 자바스크립트로만 하기에는 디버깅이 까다로울 거 같고..딜레마다.
 
 백엔드분들은 자바를 쓸 거기 때문에 프론트끼리만 잘 협의하면 되지 않을까 싶다.

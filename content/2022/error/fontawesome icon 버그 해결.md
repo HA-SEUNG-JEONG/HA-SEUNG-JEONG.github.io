@@ -9,11 +9,11 @@ categories: 문제해결
 
 메인 프로젝트를 진행하면서 컴포넌트를 만들던 중에 갑자기 이렇게 footer 부분에서 FontAwesome icon이 상대적으로 엄청 커지는 현상이 발생했다.
 
-<img src='../../../assets/image1.png'/>
+<img src='../../../assets/footer.png' />
 
 구글링해서 찾아보니 이러한 답변을 볼 수 있었다.
 
-<img src='../../../assets/fontawesome.png'/>
+<img src='../../../assets/fontawesomebug.png' />
 
 프로젝트 환경은 `Next.js`였고 일반 리액트가 아닌 Next나 Gatsby 같은 환경에서는 FontAwesome icon이 CSS가 로드되기 전에 먼저 렌더링 되기 때문에 생기는 버그라고 한다.
 
