@@ -39,6 +39,9 @@ function PageHeader({ siteTitle }) {
               <Link className="link" to="/posts">
                 posts
               </Link>
+              <label className="label" htmlFor="검색">
+                검색
+              </label>
               <PostSearch
                 posts={data.allMarkdownRemark.edges.map(({ node }) => new Post(node, true))}
               />
