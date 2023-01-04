@@ -40,10 +40,11 @@ function PageHeader({ siteTitle }) {
                 posts
               </Link>
               <label className="label" htmlFor="검색">
-                <PostSearch
-                  posts={data.allMarkdownRemark.edges.map(({ node }) => new Post(node, true))}
-                />
+                검색
               </label>
+              <PostSearch
+                posts={data.allMarkdownRemark.edges.map(({ node }) => new Post(node, true))}
+              />
             </div>
           </div>
         </header>
