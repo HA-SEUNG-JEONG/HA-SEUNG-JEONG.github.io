@@ -4,10 +4,10 @@ title: 파일업로드 input을 아이콘으로 대체하기
 date: '2023-01-04 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: side-project
+categories: swap
 ---
 
-<img src='../../../assets/swap.png' />
+<img src='../../assets/swap.png' />
 <br/>
 
 그림처럼 plus 아이콘을 클릭하면 파일을 업로드 할 수 있게 만드는 작업을 진행했었다.
