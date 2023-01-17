@@ -2,11 +2,11 @@ module.exports = {
   title: `jhsdev`,
   description: `프론트엔드 개발`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://ha-seung-jeong.github.io`,
+  siteUrl: `https://haseungdev-51un1r53c-ha-seung-jeong.vercel.app/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: `HA-SEUNG-JEONG/gatsby-github-blog`, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `HA-SEUNG-JEONG/HA-SEUNG-JEONG.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -19,7 +19,7 @@ module.exports = {
     },
     social: {
       github: `https://github.com/HA-SEUNG-JEONG`, // `https://github.com/zoomKoding`,
-      linkedIn: `https://www.linkedin.com/in/%ED%95%98%EC%8A%B9-%EC%A0%95-50b831229/`, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
+      linkedIn: `https://www.linkedin.com/in/haseung-jeong-50b831229/`, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
       email: `gktmd653@gmail.com`, // `zoomkoding@gmail.com`,
     },
   },
