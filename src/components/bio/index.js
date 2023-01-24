@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactRotatingText from 'react-rotating-text';
 import IconButtonBar from '../icon-button-bar';
-import Image from '../image';
 import './style.scss';
+import profile from '../../../assets/profile.jpg';
 
 function Bio({ author, language = 'ko' }) {
   if (!author) return null;
@@ -44,7 +44,7 @@ function Bio({ author, language = 'ko' }) {
         </div>
       )}
       <div className="thumbnail-wrapper">
-        <Image style={{ width: 250, height: 250 }} src={bio.thumbnail} alt="thumbnail" />
+        <img src={profile} alt="profile" />
       </div>
     </div>
   );
