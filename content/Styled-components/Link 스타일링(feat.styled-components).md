@@ -4,7 +4,7 @@ title: Link 스타일링(feat.styled-components)
 date: '2022-12-18 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 문제해결
+categories: styled-components
 ---
 
 ```jsx

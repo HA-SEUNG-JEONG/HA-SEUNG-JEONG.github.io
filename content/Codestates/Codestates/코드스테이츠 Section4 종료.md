@@ -4,7 +4,7 @@ title: 코드스테이츠 Section4 종료
 date: '2022-10-19 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 회고록
+categories: codestates
 ---
 
 ## 느낀 점

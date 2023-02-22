@@ -4,7 +4,7 @@ title: ReactQueryDevtools 오류
 date: '2022-12-20 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: reactquery
+categories: React
 ---
 
 react-query에서 devtools를 사용하기 위해

@@ -4,7 +4,7 @@ title: validatedomnesting(...) button cannot appear as a descendant of button �
 date: '2022-06-26 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 문제해결
+categories: React
 ---
 
 카카오 공유 버튼을 만들면서 다음과 같은 오류를 만나게 되었다.

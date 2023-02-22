@@ -4,7 +4,7 @@ title: SWR에 관하여
 date: '2022-10-14 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: swr
+categories: React
 ---
 
 ### stale-while-revalidate가 무엇인가?

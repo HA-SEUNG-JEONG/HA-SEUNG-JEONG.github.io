@@ -4,7 +4,7 @@ title: 코드 스테이츠 Section2 종료
 date: '2022-08-18 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 회고록
+categories: codestates
 ---
 
 ### <span style='color:skyblue'>Section 2를 끝내며</span>

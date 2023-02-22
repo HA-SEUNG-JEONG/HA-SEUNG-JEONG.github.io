@@ -4,7 +4,7 @@ title: children 타입에 대하여
 date: '2023-02-20 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: typescript
+categories: 글또
 ---
 
 타입스크립트로 사이드 프로젝트를 하면서 children 타입을 정해야 하는 일이 생겨

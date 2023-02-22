@@ -4,7 +4,7 @@ title: forEach 오류 해결
 date: '2022-08-12 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 문제해결
+categories: Javascript
 ---
 
 함수형 코딩 독서 스터디를 하면서 코드 리팩토링을 하던 중에

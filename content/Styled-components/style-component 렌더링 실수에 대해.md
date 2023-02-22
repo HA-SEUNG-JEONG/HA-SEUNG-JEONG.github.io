@@ -4,7 +4,7 @@ title: style-component 렌더링 실수에 대해
 date: '2023-01-13 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: swap
+categories: styled-components
 ---
 
 <img src='../../assets/rendering.png'/>

@@ -4,7 +4,7 @@ title: ReactDOM.render is no longer supported in React18.
 date: '2022-12-20 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 문제해결
+categories: React
 ---
 
 유데미 리액트 강의를 듣던 중에 다음과 같은 오류가 나왔다.
