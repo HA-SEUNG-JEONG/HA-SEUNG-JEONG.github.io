@@ -9,7 +9,7 @@ categories: 문제해결
 
 메인 프로젝트에서 react-hook-form을 이용해 로그인 컴포넌트를 만들던 중에
 
-<img src='../../../assets/warningform.png'  />
+<img src='../../assets/warningform.png'  />
 
 위와 같은 경고가 발생했다.
 
