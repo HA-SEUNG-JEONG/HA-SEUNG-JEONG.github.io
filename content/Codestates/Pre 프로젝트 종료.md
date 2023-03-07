@@ -66,7 +66,7 @@ merge 브랜치를 `dev`로 변경하는 방법도 생각했었지만 그렇게 
 
 유어클래스에서 배운 부분이 기억이 나서 너무 시간을 오래 끌진 않았다.
 
-<img src='../../../../../assets/editor.png' />
+<img src='../../assets/editor.png' />
 
 ### react-hook-form
 
@@ -82,7 +82,7 @@ merge 브랜치를 `dev`로 변경하는 방법도 생각했었지만 그렇게 
 
 https://cors-anywhere.herokuapp.com/corsdemo 를 이용하면 다른 호스팅 주소라도 오류없이 가능하다고 해서 적용해봤더니 바로 해결...
 
-<img src='../../../../../assets/error.png' />
+<img src='../../assets/error.png' />
 
 ### 배포
 
