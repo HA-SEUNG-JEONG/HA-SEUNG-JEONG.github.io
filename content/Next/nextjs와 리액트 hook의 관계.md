@@ -26,7 +26,7 @@ export const useCheckAuth = () => {
 
 리팩토링을 진행하던 중에 위와 같은 코드를 작성했었는데..
 
-<img src='../../../../assets/builderror.png' />
+<img src='../../assets/builderror.png' />
 
 <br />
 
