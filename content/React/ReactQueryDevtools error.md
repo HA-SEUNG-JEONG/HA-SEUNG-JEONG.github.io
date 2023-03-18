@@ -15,7 +15,7 @@ import { ReactQueryDevtools } from 'react-query';
 
 처럼 import 했는데,
 
-<img src='../../../assets/reactquerydevtools.png' />
+<img src='../../assets/reactquerydevtools.png' />
 
 타입이 invalid하다는데 이게 타입이랑 뭔 상관이 있나 싶어서 구글링해보니
 

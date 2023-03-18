@@ -7,7 +7,7 @@ tags: 블로그 github-pages gatsby
 categories: typescript
 ---
 
-<img src='../../../assets/JSX.png' />
+<img src='../../assets/JSX.png' />
 
 자바스크립트에서 타입스크립트로 마이그레이션 하던 중에 위와 같은 오류를 마주쳤다.
 

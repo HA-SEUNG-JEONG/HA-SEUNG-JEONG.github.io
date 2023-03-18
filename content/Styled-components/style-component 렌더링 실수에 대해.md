@@ -7,7 +7,7 @@ tags: 블로그 github-pages gatsby
 categories: styled-components
 ---
 
-<img src='../../assets/rendering.png'/>
+<img src='../../assets/render.png' />
 <br/>
 
 input 컴포넌트랑 구름 아이콘을 같은 라인에 맞추고 싶었는데 뭔가 계속 정렬이 안됐었다.
