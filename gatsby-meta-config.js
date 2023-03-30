@@ -2,7 +2,7 @@ module.exports = {
   title: `jhsdev`,
   description: `프론트엔드 개발`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://haseungdev-51un1r53c-ha-seung-jeong.vercel.app/`,
+  siteUrl: `https://haseungdev.vercel.app`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
