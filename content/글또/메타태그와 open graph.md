@@ -1,7 +1,7 @@
 ---
 emoji: 🔮
 title: 메타 태그와 open graph
-date: '2023-03-29 00:00:00'
+date: '2023-03-30 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
 categories: 글또
