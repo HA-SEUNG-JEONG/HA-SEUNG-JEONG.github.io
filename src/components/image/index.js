@@ -11,9 +11,6 @@ const Image = ({ src, ...rest }) => {
             relativePath
             extension
             publicURL
-            childImageSharp {
-              gatsbyImageData(layout: CONSTRAINED)
-            }
           }
         }
       }
