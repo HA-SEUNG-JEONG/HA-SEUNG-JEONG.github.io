@@ -21,7 +21,6 @@ function BlogTemplate({ data }) {
     if (!siteUrl) return;
     const namespace = siteUrl.replace(/(^\w+:|^)\/\//, '');
     const key = curPost.slug.replace(/\//g, '');
-    // console.log(namespace, key); //테스트
     fetch(
       `https://api.countapi.xyz/${
         process.env.NODE_ENV === 'development' ? 'get' : 'hit'
