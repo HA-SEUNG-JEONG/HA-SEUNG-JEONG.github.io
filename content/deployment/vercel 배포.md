@@ -32,7 +32,7 @@ emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBL
 
 <br/>
 
-Vercel에 이렇게 등록을 했어야 하는데 env 파일에만 넣어놓고 **'로컬에서는 잘 되는데 왜 배포하면 안되지?'**라고 시간을 허비했다...
+Vercel에 이렇게 등록을 했어야 하는데 env 파일에만 넣어놓고 '로컬에서는 잘 되는데 왜 배포하면 안되지?'라고 시간을 허비했다...
 
 <br/>
 
