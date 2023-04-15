@@ -1,5 +1,5 @@
 module.exports = {
-  title: `jhsdev`,
+  title: `하승's log`,
   description: `프론트엔드 개발`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://haseungdev.vercel.app`,
