@@ -4,7 +4,7 @@ title: JSX is not defined 오류 해결
 date: '2022-12-24 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: typescript
+categories: Typescript
 ---
 
 <img src='../../assets/JSX.png' />

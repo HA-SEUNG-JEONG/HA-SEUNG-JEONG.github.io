@@ -4,7 +4,7 @@ title: next/font
 date: '2023-01-31 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: nextjs
+categories: Next
 ---
 
 포트폴리오를 컨펌받다가 폰트를 통일하면 어떻겠냐는 피드백을 받았다.

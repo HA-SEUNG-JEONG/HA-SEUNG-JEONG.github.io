@@ -4,7 +4,7 @@ title: 코드스테이츠 Section1 종료
 date: '2022-07-20 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: codestates
+categories: Codestates
 ---
 
 ![](https://velog.velcdn.com/images/gktmd652/post/3aa36f99-d7b3-4e1e-8d57-fd8a9dec03c1/image.png)

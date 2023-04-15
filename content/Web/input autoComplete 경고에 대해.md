@@ -4,7 +4,7 @@ title: input autoComplete 경고에 대해
 date: '2022-11-14 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 문제해결
+categories: Web
 ---
 
 메인 프로젝트에서 react-hook-form을 이용해 로그인 컴포넌트를 만들던 중에

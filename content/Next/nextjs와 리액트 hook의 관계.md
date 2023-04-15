@@ -4,7 +4,7 @@ title: nextjs와 리액트 hook의 관계
 date: '2023-02-11 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: nextjs
+categories: Next
 ---
 
 ```tsx

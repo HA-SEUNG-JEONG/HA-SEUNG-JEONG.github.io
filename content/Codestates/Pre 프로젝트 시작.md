@@ -4,7 +4,7 @@ title: Pre 프로젝트 시작
 date: '2022-10-22 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 프로젝트
+categories: Codestates
 ---
 
 10월 20일부터 본격적으로 프로젝트가 시작이 되었다.

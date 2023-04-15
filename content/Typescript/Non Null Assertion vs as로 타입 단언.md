@@ -4,7 +4,7 @@ title: Non Null Assertion vs as로 타입 단언
 date: '2022-12-18 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: typescript
+categories: Typescript
 ---
 
 코드스테이츠 메인 프로젝트를 진행하면서, Editor에 이미지를 넣는 기능을 구현을 담당했었다. 이 기능을 구현하면서 타입을 지정하는 과정에서 `Non Null Assertion`과 `as`로 타입 단언을 하는 것에 대한 차이가 궁금해졌다.

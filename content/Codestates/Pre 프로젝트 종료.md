@@ -4,7 +4,7 @@ title: Pre 프로젝트 종료
 date: '2022-11-07 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: 프로젝트
+categories: Codestates
 ---
 
 ### 협업 시작

@@ -4,7 +4,7 @@ title: Next.js로 마크다운으로 작성한 블로그를 정적 페이지(SSG
 date: '2022-10-10 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: nextjs
+categories: Next
 ---
 
 **1) ** **:: 폴더 구조 및 라우팅**

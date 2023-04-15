@@ -4,7 +4,7 @@ title: vercel 배포(라 쓰고 뻘짓...)
 date: '2023-04-11 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: deployment
+categories: Deployment
 ---
 
 포트폴리오 작업 중에 Contact 페이지를 만들면서 `emailjs`라는 라이브러리를 사용할 일이 생겼는데,

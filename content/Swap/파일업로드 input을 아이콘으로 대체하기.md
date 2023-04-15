@@ -4,7 +4,7 @@ title: 파일업로드 input을 아이콘으로 대체하기
 date: '2023-01-04 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: swap
+categories: Swap
 ---
 
 <img src='../../assets/swap.png' />

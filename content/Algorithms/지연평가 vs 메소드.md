@@ -4,7 +4,7 @@ title: 지연평가 vs 내장 메소드
 date: '2022-09-11 00:00:00'
 author: 정하승
 tags: 블로그 github-pages gatsby
-categories: algorithms
+categories: Algorithms
 ---
 
 인프런 유인동 쌤의 함수형 프로그래밍 강의를 듣고 프로그래머스에서 알고리즘 시간 측정 테스트를 돌려봤다.
