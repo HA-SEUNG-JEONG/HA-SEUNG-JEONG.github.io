@@ -23,6 +23,11 @@
   margin-bottom: 120px;
   color: var(--primary-text-color);
 
+  span {
+    color: rgb(135, 206, 235);
+    font-weight: bold;
+  }
+
   @include md {
     flex-direction: row;
     align-items: center;
