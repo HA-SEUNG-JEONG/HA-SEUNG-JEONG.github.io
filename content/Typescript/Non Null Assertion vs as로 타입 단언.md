@@ -64,7 +64,7 @@ const foo: Foo = getFoo();
 const includesBaz: boolean = foo.bar!.includes('baz');
 ```
 
-이 예제에서는 `bar`가 `null`이나 `undefined`가 아니라고 확신할 때 쓴다.
+이 예제에서는 `foo.bar`가 `null`이나 `undefined`가 아니라고 확신할 때 쓴다.
 
 ### as를 통한 타입 단언
 
