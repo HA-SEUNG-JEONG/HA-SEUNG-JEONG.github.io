@@ -76,6 +76,6 @@ module.exports = {
 
 워낙 문서가 잘 되어있어서...
 
-### Reference
+## Reference
 
 <a href='https://nextjs.org/docs/basic-features/font-optimization'>Optimizing Fonts</a>

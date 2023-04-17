@@ -41,11 +41,11 @@ chatGPT에게 물어보니 다음과 같이 수정하라고 한다.
 
 그런데 이렇게 메타 태그나 open graph를 왜 적용해야 할까?
 
-### 메타 태그
+## 메타 태그
 
 메타 태그는 웹페이지에 대한 정보를 명시하기 위해 사용되는 HTML 태그다.
 
-유저가 보기에는 위와 같은 태그를 추가하는 게 무슨 차이가 있는지 구별은 못하지만 검색 엔진 같은 경우에는 웹페이지를 읽어들이는 과정에서 메타 태그의 내용들이 어떻게 표시될지를 결정하는 중요한 요소다. 즉, <span style='color:red'>**SEO**</span>에 많은 영향을 끼치는 것이다.
+유저가 보기에는 위와 같은 태그를 추가하는 게 무슨 차이가 있는지 구별은 못하지만 검색 엔진 같은 경우에는 웹페이지를 읽어들이는 과정에서 메타 태그의 내용들이 어떻게 표시될지를 결정하는 중요한 요소다. 즉, <span style='background-color:yellow;font-weight:bold'>SEO</span>에 많은 영향을 끼치는 것이다.
 
 ```html
 <title>모락모락</title>
@@ -55,11 +55,14 @@ chatGPT에게 물어보니 다음과 같이 수정하라고 한다.
 프로젝트를 하면서 넣었던 html 코드인데,
 먼저 사이트 제목을 표시하기 위해 `title` 태그를 쓰는데 예를 들어 '메타 태그'라는 제목으로 검색을 했다면 검색 엔진 최적화가 잘 되어있는 사이트는 바로 최상단에 뜰 것이다.
 
-<div style='text-align:left'>1. SNS 공유</div>
+### 1. SNS 공유
+
 <br/>
 <img src='../../assets/test2.png' alt='thumbnail2'/>
 <br/>
-<div style='text-align:left'>2. 웹 브라우저</div>
+
+### 2. 웹 브라우저
+
 <br/>
 <img src='../../assets/test3.png' alt='thumbnail3'/>
 <br/>
@@ -72,7 +75,7 @@ chatGPT에게 물어보니 다음과 같이 수정하라고 한다.
 
 보통 웹 페이지 상세 설명은 **`영문 160자, 한글 80자`** 이내로 하는 것이 좋다고 한다.
 
-### Open Graph
+## Open Graph
 
 블로그나 웹사이트를 SNS에 공유하면서 메타 태그가 점점 중요해지고 있는 추세다. 나같은 경우에는 카카오톡을 통해 이용하고 있기도 하다.
 
@@ -88,7 +91,7 @@ chatGPT에게 물어보니 다음과 같이 수정하라고 한다.
 
 나는 위처럼 `url`,`type`,`title`,`description`,`image` 5개 정도로 적용했다. 참고로 이 태그들이 가장 많이 쓰인다고 한다.
 
-### 느낀 점
+## 느낀 점
 
 팀 프로젝트를 하면서 단순히 SEO 때문에 Next를 채택했었는데 이게 무조건 SEO를 높여주는 게 아니라고 생각을 했고, 결국 메타 태그와 Open Graph를 적용하게 됐다. 덕분에 프로젝트 메인에서 LightHouse SEO를 10% 가량 높여서 80% 정도로 측정됐다.
 
@@ -97,7 +100,7 @@ chatGPT에게 물어보니 다음과 같이 수정하라고 한다.
 
 여담으로 morakmorak이라고 치면 과연 어디에 뜨는지 확인해봤는데 두번째에 위치하고 있는 걸 보니 나름 SEO 작업이 잘 된것 같다.
 
-### Reference
+## Reference
 
 https://www.daleseo.com/html-meta-tags-for-seo/
 https://yozm.wishket.com/magazine/detail/816/

@@ -9,7 +9,7 @@ categories: React
 
 유데미 리액트 강의를 듣던 중에 다음과 같은 오류가 나왔다.
 
-<img src='../../../assets/reactdom.png' />
+<img src='../../assets/reactdom.png' />
 
 `index.js` 에는 코드가 이렇게 되어있었는데
 

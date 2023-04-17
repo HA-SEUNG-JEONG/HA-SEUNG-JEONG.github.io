@@ -15,7 +15,7 @@ categories: 문제해결
 
 <img src='../../../assets/fontawesomebug.png' />
 
-프로젝트 환경은 `Next.js`였고 일반 리액트가 아닌 Next나 Gatsby 같은 환경에서는 FontAwesome icon이 CSS가 로드되기 전에 먼저 렌더링 되기 때문에 생기는 버그라고 한다.
+프로젝트 환경은 `Next.js`였고 일반 리액트가 아닌 Next나 Gatsby 같은 환경에서는 <span style='background-color:yellow;font-weight:bold'>FontAwesome icon이 CSS가 로드되기 전에 먼저 렌더링</span> 되기 때문에 생기는 버그라고 한다.
 
 다음과 같이 `_app.tsx`에 미리 렌더링을 방지하는 코드를 작성했다.
 
@@ -26,7 +26,7 @@ import { config } from '@fortawesome/fontawesome-svg-core';
 config.autoAddCss = false;
 ```
 
-### Reference
+## Reference
 
 - <a href='https://stackoverflow.com/questions/56334381/why-my-font-awesome-icons-are-being-displayed-big-at-first-and-then-updated-to-t'>Why my font-awesome icons are being displayed big at first and then updated to the right size?</a>
 

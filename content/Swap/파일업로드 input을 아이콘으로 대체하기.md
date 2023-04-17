@@ -27,11 +27,11 @@ categories: Swap
 
 이렇게 `label`에 있는 `htmlFor` 속성과 매칭되는 `id`를 부여해야 했다.
 
-htmlFor과 input의 id 속성을 연결해줘야 하는 게 기본적인 스펙으로 제공되고 있었다.
+<span style='color:blue;font-weight:bold'>htmlFor과 input의 id 속성을 연결</span>해줘야 하는 게 기본적인 스펙으로 제공되고 있었다.
 
 잘 알아둬야지..
 
-### Reference
+## Reference
 
 https://stackoverflow.com/questions/2855589/replace-input-type-file-by-an-image
 https://developer.mozilla.org/ko/docs/Web/HTML/Element/label

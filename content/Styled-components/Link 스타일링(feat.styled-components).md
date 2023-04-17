@@ -29,7 +29,7 @@ const SideMenu = styled(Link)`
 
 react-router-dom을 오랜만에 쓰다보니 까먹은 부분이 있는데 복습이 필요하다....
 
-### Reference
+## Reference
 
 <a href='https://dev.to/ridhikgovind/how-to-style-your-react-router-links-using-styled-components-2350'>How to style your React-Router links using styled-components
 </a>

@@ -21,7 +21,7 @@ export interface ChildrenProps {
 
 사실 children 타입을 처음 설정할 당시에는 `JSX.Element`로만 했었는데 JSX 코드가 여러개 올 경우에는 타입이 안 먹히기 때문에 ` JSX.Element | JSX.Element[]` 로 했었다.
 
-### <span style='color:pink'>ReactNode</span>
+## ReactNode
 
 ```tsx
 type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | undefined;
@@ -30,7 +30,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 가장 넓은 타입이며, primitive 타입, fragment 등을 다 받아들인다. 배열 형태가 필요하다면 `ReactNode[]`로 정하면 된다.
 다만 `null` 이나 `undefined`가 들어올 경우에는 별도의 타입 검사 및 에러처리가 필요하다.
 
-## <span style='color:pink'>ReactElement</span>
+## ReactElement
 
 ```tsx
 declare namespace JSX {
@@ -47,7 +47,7 @@ declare namespace JSX {
 
 하지만, 일반 텍스트 같은 것들은 허용하지 않고 <span style='color:skyblue'>**JSX 요소**</span>만 허용한다.
 
-## <span style='color:pink'>ReactChild</span>
+## ReactChild
 
 `React.Element` 보다는 조금 더 넓은 타입으로
 
@@ -63,11 +63,9 @@ type ReactChild = ReactElement<any> | ReactText;
 type ReactText = string | number;
 ```
 
-## <span style='color:pink'>React.FC</span>
+## React.FC
 
-이 타입을 잘 사용하지 않는다고 한다.
-
-이유로는,
+이 타입을 잘 사용하지 않는다고 한다. 그 이유는,
 
 - 제네릭 지원 X,
 - children을 암시적으로 허용하기 때문에 children을 허용하지 않고 싶을 때도 전달받을 수 있다.(React 18부터는 사라짐)
@@ -82,7 +80,7 @@ React.FC 같은 경우에는 함수 컴포넌트를 작성하면서 종종 쓰�
 
 그 동안에 children 타입을 지정하면서 JSX.Element나 ReactNode를 사용했었는데 더 많은 타입이 있을줄은 몰랐다.
 
-### Reference
+## Reference
 
 https://github.com/coryhouse/react-typescript-starter-kit/blob/master/typings/react/react.d.ts
 
