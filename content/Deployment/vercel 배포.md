@@ -28,7 +28,7 @@ emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBL
 
 블로그를 좀 찾아보다가 직접적인 힌트는 얻은 건 아니지만
 
-<img src='../../assets/vercel.png' />
+<img src='../../assets/vercel1.png' />
 
 <br/>
 
@@ -36,5 +36,6 @@ Vercel에 이렇게 등록을 했어야 하는데 env 파일에만 넣어놓고 
 
 <br/>
 
-<img src='../../assets/contact.png' />
+<img src='../../assets/contactpage.png' />
+
 <p align='center' style='color:gray'><small>Send Message 버튼을 클릭하면 토스트가 뜨도록 했다.</small>

@@ -92,7 +92,7 @@ chatGPT에게 물어보니 다음과 같이 수정하라고 한다.
 
 팀 프로젝트를 하면서 단순히 SEO 때문에 Next를 채택했었는데 이게 무조건 SEO를 높여주는 게 아니라고 생각을 했고, 결국 메타 태그와 Open Graph를 적용하게 됐다. 덕분에 프로젝트 메인에서 LightHouse SEO를 10% 가량 높여서 80% 정도로 측정됐다.
 
-<img src='../../assets/test4.png' alt='thumbnail4'/>
+<img src='../../assets/thumbnail4.png' alt='thumbnail4'/>
 <br/>
 
 여담으로 morakmorak이라고 치면 과연 어디에 뜨는지 확인해봤는데 두번째에 위치하고 있는 걸 보니 나름 SEO 작업이 잘 된것 같다.
@@ -101,4 +101,5 @@ chatGPT에게 물어보니 다음과 같이 수정하라고 한다.
 
 https://www.daleseo.com/html-meta-tags-for-seo/
 https://yozm.wishket.com/magazine/detail/816/
+
 https://ogp.me/
