@@ -12,7 +12,7 @@ function PostCard({ post }) {
         <div className="info">
           <div className="date">{date}</div>
           <div className="categories">
-            {categories.map((category) => (
+            {categories?.category?.map((category) => (
               <div className="category" key={category}>
                 {category}
               </div>
