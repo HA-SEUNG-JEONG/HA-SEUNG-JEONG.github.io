@@ -7,13 +7,7 @@ function PostHeader({ post, viewCount }) {
     <header className="post-header">
       {post.emoji && <div className="emoji">{post.emoji}</div>}
       <div className="info">
-        <div className="categories">
-          {post.categories.map((category) => (
-            <Link className="category" key={category} to={`/posts/${category}`}>
-              {category}
-            </Link>
-          ))}
-        </div>
+        <div className="categories">{post?.categories}</div>
       </div>
 
       <h1 className="title">{post.title}</h1>
